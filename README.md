@@ -1,8 +1,8 @@
 
 # Slim KV Store
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/slim-kv-store/ci.yml?branch=main)](https://github.com/yourusername/slim-kv-store/actions)
-[![License](https://img.shields.io/github/license/yourusername/slim-kv-store)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/karthikrajkumar/slim-kv-store/ci.yml?branch=main)](https://github.com/karthikrajkumar/slim-kv-store/actions)
+[![License](https://img.shields.io/github/license/karthikrajkumar/slim-kv-store)](LICENSE)
 
 A lightweight, scalable key-value store implementing consistent hashing in Java. **Slim KV Store** is designed to be simple, efficient, and easy to deploy, providing a solid foundation for learning about distributed systems and building more complex applications.
 
@@ -55,7 +55,7 @@ A lightweight, scalable key-value store implementing consistent hashing in Java.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/slim-kv-store.git
+   git clone https://github.com/karthikrajkumar/slim-kv-store.git
    cd slim-kv-store
    ```
 
@@ -84,13 +84,13 @@ A lightweight, scalable key-value store implementing consistent hashing in Java.
 1. **Pull the Docker image:**
 
    ```bash
-   docker pull yourusername/slim-kv-store:latest
+   docker pull karthikrajkumar/slim-kv-store:latest
    ```
 
 2. **Run the Docker container:**
 
    ```bash
-   docker run -d -p 8080:8080 yourusername/slim-kv-store:latest
+   docker run -d -p 8080:8080 karthikrajkumar/slim-kv-store:latest
    ```
 
 #### Using Homebrew (macOS)
@@ -98,7 +98,7 @@ A lightweight, scalable key-value store implementing consistent hashing in Java.
 1. **Tap the repository:**
 
    ```bash
-   brew tap yourusername/slim-kv-store
+   brew tap karthikrajkumar/slim-kv-store
    ```
 
 2. **Install Slim KV Store:**
